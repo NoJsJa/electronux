@@ -58,7 +58,7 @@
     "chai": "^4.2.0",
     "concurrently": "^3.6.1",
     "cross-env": "^5.2.0",
-    "electron": "9.3.5",
+    "electron": "9.4.0",
     "electron-builder": "^22.4.1",
     "event-stream": "^4.0.1",
     "mocha": "^8.2.1",
